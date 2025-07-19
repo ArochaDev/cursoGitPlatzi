@@ -1,0 +1,5 @@
+/workspaces/cursoGitPlatzi/obj/Debug/net8.0/cursoGitPlatzi.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cursoGitPlatzi/obj/Debug/net8.0/cursoGitPlatzi.AssemblyInfoInputs.cache
+/workspaces/cursoGitPlatzi/obj/Debug/net8.0/cursoGitPlatzi.AssemblyInfo.cs
+/workspaces/cursoGitPlatzi/obj/Debug/net8.0/cursoGitPlatzi.csproj.CoreCompileInputs.cache
+/workspaces/cursoGitPlatzi/obj/Debug/net8.0/cursoGitPlatzi.sourcelink.json
